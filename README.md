@@ -18,7 +18,7 @@ this is where the meme will appear.
   <img src="https://github.com/wbrown22/meme-maker/blob/master/demo/HomeScreen.gif" width="320px" height="600px" />
 </p>
 
----
+
 **Create Screen** <br /> 
 The Create screen allows users to create memes. <br /> 
 Functionality allows users to: <br /> 
@@ -28,20 +28,25 @@ Functionality allows users to: <br />
 * Upload created memes to make available to Home screen<br /> 
 
 **Import and Save** <br /> 
-  Example of importing an image and saving the created meme to the user's camera roll. <br /> 
+  Example of importing an image and saving the created meme to the user's camera roll. <br /><br /> 
   
   <p align="center">
     <img src="https://github.com/wbrown22/meme-maker/blob/master/demo/ImportAndSave.gif" width="320px" height="600px" /> 
   </p>
  
  **Select and Upload** <br /> 
- Example of selecting an existing image template and uploading the created meme to the Home screen. <br /> 
+ Example of selecting an existing image template and uploading the created meme to the Home screen. <br /><br />  
  
  <p align="center">
     <img src="https://github.com/wbrown22/meme-maker/blob/master/demo/SelectAndUpload.gif" width="320px" height="600px" /> 
  </p>
  
+ **Improvements**
  ---
+ * Activity Indicators need to be added for save and upload buttons when creating meme
+ * Loading spinners need to be added when the images are being rendered
+ * State management needs to be migrated over to redux
+ * Styling improvements can be made for final version
  
  
 
