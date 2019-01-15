@@ -10,6 +10,8 @@ Info
 
 Demo
 ---
-Home Screen
+**Home Screen**
 
-![alt-test](https://github.com/wbrown22/meme-maker/blob/master/demo/HomeScreen.gif)
+<p align="center">
+  ![alt-test](https://github.com/wbrown22/meme-maker/blob/master/demo/HomeScreen.gif)
+</p>
