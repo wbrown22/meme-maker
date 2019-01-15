@@ -10,7 +10,7 @@ Info
 
 Demo
 ---
-**Home Screen**__
+**Home Screen** <br /> 
 The Home screen lists all of the memes that users have uploaded. If a user creates a new meme and clicks the upload meme button
 this is where the meme will appear.
 
@@ -18,13 +18,13 @@ this is where the meme will appear.
   <img src="https://github.com/wbrown22/meme-maker/blob/master/demo/HomeScreen.gif" width="320px" height="600px" />
 </p>
 
-**Create Screen**__
+**Create Screen** <br /> 
 The Create screen allows users to create memes. Functionality allows users to:__
 * Use provided image templates
 * Import personal image templates from camera roll
 * Save created memes
-* Upload created memes__
+* Upload created memes <br /> 
 
-**Import and Save**__
+**Import and Save** <br /> 
 
 
