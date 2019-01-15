@@ -13,5 +13,5 @@ Demo
 **Home Screen**
 
 <p align="center">
-  <img src="https://github.com/wbrown22/meme-maker/blob/master/demo/HomeScreen.gif" width="300px" height="600px" />
+  <img src="https://github.com/wbrown22/meme-maker/blob/master/demo/HomeScreen.gif" width="400px" height="600px" />
 </p>
