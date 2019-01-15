@@ -46,7 +46,7 @@ Functionality allows users to: <br />
  * Activity Indicators need to be added for save and upload buttons when creating meme
  * Loading spinners need to be added when the images are being rendered
  * State management needs to be migrated over to redux
- * Styling improvements can be made for final version
+ * May add feature that allows user to take picture to use as template for meme
  
  
 
