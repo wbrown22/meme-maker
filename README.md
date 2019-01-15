@@ -28,5 +28,15 @@ Functionality allows users to: <br />
 * Upload created memes to make available to Home screen<br /> 
 
 **Import and Save** <br /> 
+  Example of importing an image and saving the created meme to the user's camera roll. <br /> 
+  
+  <p align="center">
+    <img src="https://github.com/wbrown22/meme-maker/blob/master/demo/ImportAndSave.gif" width="320px" height="600px" /> 
+  </p>
+ 
+ **Select and Upload** <br /> 
+ Example of selecting an existing image template and uploading the created meme to the Home screen. <br /> 
+ 
+ 
 
 
