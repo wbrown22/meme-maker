@@ -4,12 +4,12 @@ Create memes from provided templates, or upload your own, with the option to sav
 Info
 ---
 * **Platform**: iOS & Android
+* **Backend**: Firebase
 * **Code Style**: Standard
 * **Unit Test**: None
 
 Demo
 ---
-#Home Screen
-
+Home Screen
 
 ![alt-test](https://github.com/wbrown22/meme-maker/blob/master/demo/HomeScreen.gif)
