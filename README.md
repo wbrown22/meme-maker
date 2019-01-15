@@ -13,5 +13,5 @@ Demo
 **Home Screen**
 
 <p align="center">
-  ![alt-test](https://github.com/wbrown22/meme-maker/blob/master/demo/HomeScreen.gif)
+  <img src="https://github.com/wbrown22/meme-maker/blob/master/demo/HomeScreen.gif"/>
 </p>
