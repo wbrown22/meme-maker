@@ -18,12 +18,14 @@ this is where the meme will appear.
   <img src="https://github.com/wbrown22/meme-maker/blob/master/demo/HomeScreen.gif" width="320px" height="600px" />
 </p>
 
+---
 **Create Screen** <br /> 
-The Create screen allows users to create memes. Functionality allows users to:__
-* Use provided image templates
-* Import personal image templates from camera roll
-* Save created memes
-* Upload created memes <br /> 
+The Create screen allows users to create memes. <br /> 
+Functionality allows users to: <br /> 
+* Use provided image templates to create memes
+* Import personal image templates from camera roll to create memes
+* Save created memes to camera roll
+* Upload created memes to make available to Home screen<br /> 
 
 **Import and Save** <br /> 
 
