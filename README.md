@@ -37,6 +37,12 @@ Functionality allows users to: <br />
  **Select and Upload** <br /> 
  Example of selecting an existing image template and uploading the created meme to the Home screen. <br /> 
  
+ <p align="center">
+    <img src="https://github.com/wbrown22/meme-maker/blob/master/demo/SelectAndUpload.gif" width="320px" height="600px" /> 
+ </p>
+ 
+ ---
+ 
  
 
 
