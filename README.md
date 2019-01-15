@@ -1,5 +1,5 @@
 # meme-maker
-Create memes from provided templates, or upload your own, with the option to save or upload for others to see
+Provides users with around 100 image templates with which they can create, save, and upload memes. Also supports functionality that allows users to import their own image template for creating memes. No authentication has been implemented on this application thus far.
 
 Info
 ---
